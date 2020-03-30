@@ -1,2 +1,3 @@
-# st-f469i-disco-cube
+# About
+
 Minimal example LCD display on STM32F469I-DISCO board. STM32CubeMX.
